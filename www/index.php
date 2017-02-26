@@ -7,4 +7,4 @@
  */
 phpinfo();
 
-$tyty;
+$tyty=";;";
